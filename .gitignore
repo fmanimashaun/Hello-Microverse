@@ -3,3 +3,5 @@ node_modules/
 
 # ignore the files
 test.md
+*.json
+hintrc.txt
